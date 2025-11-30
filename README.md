@@ -5,7 +5,7 @@ This is a FastAPI-based application for automated document analysis, primarily f
 
 ## Architecture & Data Flow
 
-![image](https://hackmd.io/_uploads/B1lavTteZl.png)
+<img width="1099" height="514" alt="upload_a7cbd4bdbb9dd7dade1e53c9adab35ad" src="https://github.com/user-attachments/assets/c7787893-c6f1-4167-9ffc-9312cc63f6f0" />
 
 - **Entry Points**:
   - `main.py`: FastAPI app exposing `/upload/` for PDF upload and analysis with background task processing.
