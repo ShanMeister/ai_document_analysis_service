@@ -1,4 +1,4 @@
-# ai_document_analysis_service
+# AI_document_analysis_service
 
 ## Project Overview
 This is a FastAPI-based application for automated document analysis, primarily focused on extracting structured data from vendor quotations (PDFs) using Azure Document Intelligence and Azure OpenAI. The system processes PDFs, analyzes their content, validates results through self-reflection, and integrates with external APIs for data submission.
